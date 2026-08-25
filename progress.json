@@ -315,14 +315,5 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1787673047.927946,
-    "completed_at": 1787673052.637371,
-    "comments": [
-      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
-    ],
-    "status": "Incomplete"
   }
 ]
